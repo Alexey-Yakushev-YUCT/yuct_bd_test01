@@ -1,0 +1,5 @@
+*.db
+*.db.wal
+yuct_data/
+__pycache__/
+.DS_Store
